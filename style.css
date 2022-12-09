@@ -1,0 +1,13 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.yellow_cell {
+  background-color: yellow;
+}
+
+.blue_cell {
+  background-color: blue;
+}
